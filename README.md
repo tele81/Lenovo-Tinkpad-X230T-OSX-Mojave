@@ -13,3 +13,5 @@ Die Org. Wlan muss getauscht werden (Bei mir verbaut Atheros AR5B95 802.11B/G/N 
 (Bitte auf BIOS Version achten, wenn aktuelles BIOS installiert mit den Downgrader anpassen).
 
 SDHC Kext für den SD Karten Slot
+
+EFI Ordner folgt ....
