@@ -1,0 +1,10 @@
+LINK: https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/10.14/macOS%20Mojave%2010.14.6%2818G87%29%20Installer%20with%20Clover%205033.dmg
+
+Transmac downloaden und und Image auf USB erstellen, DiskGenius downloaden und EFI ersetzen.
+
+Datum vor Okt. 2019 stellen im BIOS bzw. WIN müsste es übertragen.
+
+Wenn BIOS gepatch und WLAN Karte erkannt starten, ohne Internet! (Da sonst der Zeitserver Datum korrigiert)
+Wenn alles installiert ETH Kabel einstecken, Datum wird aktualisiert.
+
+Treiber installieren, sowie Clover und Kext Updater und los gehts.
