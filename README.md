@@ -14,4 +14,4 @@ Die Org. Wlan muss getauscht werden (Bei mir verbaut Atheros AR5B95 802.11B/G/N 
 
 SDHC Kext für den SD Karten Slot
 
-EFI Ordner folgt ....
+EFI und Image Link dabei, ACHTUNG Datum muss zurückgestzt werden da das Apple Zerti im Okt. 19 abgelaufen ist.
